@@ -10,7 +10,7 @@ export const SITE = {
   author: "Irfan Kurnia",
   // Recipient for the contact form. Also referenced by the serverless contact route.
   email: "hello@irfankurnia.com",
-  locale: "en",
+  locale: "id",
 } as const;
 
 // Primary navigation. `href` values use directory-style clean URLs.
