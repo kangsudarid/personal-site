@@ -13,7 +13,7 @@ Bromo Tengger Semeru ini juga pada waktu itu mengalami kebakaran hebat hingga vi
 
 ## Bromo 29 September 2024
 
-![Gunung Bromo](/img/bromo1.jpg) 
+![Gunung Bromo](/img/bromo/bromo1.jpg) 
 
 Alhamdulillah pada tanggal 29 september 2024 saya bisa kebromo yang mana dua tahun yang lalu hanyalah sebuah wacana tapi pada tahun ini bisa terlaksana itupun dengan biaya yang menurut saya sangat murah juga. 
 
@@ -33,7 +33,7 @@ Karena tujuan ke penanjakan bromo jadi jalan lumayan menanjak dan landai wajar a
 
 ## Harga Tiket Masuk Gunung Bromo Tengger
 
-![Gunung Bromo](/img/bromo2.jpg)
+![Gunung Bromo](/img/bromo/bromo2.jpg)
 
 Karena menurut informasi kalau tiket masuk bromo itu 30 ribu per orang jadi aman aja tetapi setelah sampai sana akhir nya tiket masuk + parkir itu 40 ribuan, jadi kalau ber empat sekitar 160 ribuan lah karena tidak mau antri sekaligus tidak mau daftar online juga jadi mending bayar segitu lah. 
 
@@ -53,14 +53,19 @@ Belum sempat kenalan juga karena keburu siang akhirnya memutuskan untuk pergi ke
 
 ## Badai Pasir di Lautan Pasir Bromo
 
-![Gunung Bromo](/img/bromo3.jpg)
+![Gunung Bromo](/img/bromo/bromo3.jpg)
 
 Karena kesana pas musim kemarau wajar aja kalau di bromo ada badai pasir disaran kan jika ingin kesana harus memakai kacamata atau masker buat jaga - jaga dan supaya mata tidak lah perih juga.
 
 Ditambah lagi lautan pasir ini juga berdebu jadi benar - benar harus memakai kacama atau masker, dilautan pasir bromo ini sangatlah luas dimana jika ingin menikmati seluruh wisata di bromo kalian harus muter seperti bukit teletubis, dan masih banyak lagi.
 
+![Gunung Bromo](/img/bromo/bromo4.jpg)
+
+
 Ditambah lagi banyak mobil jeeb yang lalu lalang jadi membuat kawasan ini menjadi lebih berdebu lagi, jika kalian lapar di kawasan lautan pasir ini banyak juga yang jualan akan tetapi lumayan lah harga nya agak mahalan dikit ketimbang di tempat lain.
 
 Saya saran kan buat yang memkai sepeda metik lebih baik jangan ngebut di lautan pasir ini karena akan membuat sepeda kalian oleng dan jatuh juga nanti nya. 
+
+![Gunung Bromo](/img/bromo/bromo5.jpg)
 
 Oke mungkin itu lah pengalaman saya di mana wisata di bromo, kenangan yang tidak pernah di lupakan. 
