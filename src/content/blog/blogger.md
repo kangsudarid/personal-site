@@ -1,6 +1,6 @@
 ---
-title: "Suka Duka Menjadi Blogger"
-description: "Pengalaman 8 Tahun Menjadi Blogger dan Penulis Lepas"
+title: "Hello Work, I m is Back"
+description: "Nama baru untuk personal brending blog"
 pubDate: 2020-08-31
 tags: ["erratic-thought"]
 ---
