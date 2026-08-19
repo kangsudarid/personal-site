@@ -2,7 +2,7 @@
 
 export const SITE = {
   // Update to the final production domain before deploying (no trailing slash).
-  url: "https://irfankurnia.com",
+  url: "https://masdarsite.pages.dev",
   title: "Jurnal Sudarmanto",
   // Short tagline used in <meta> descriptions and the site header.
   description:
